@@ -1,9 +1,9 @@
 {
-  "name": "builder-skills",
+  "name": "dataproduct-builder-skills",
   "version": "1.0.0",
-  "description": "Cursor agent skills for designing and building Vulcan/DataOS data products. Run npx builder-skills to scaffold .cursor/skills and docs into your project.",
+  "description": "Cursor agent skills for designing and building Vulcan/DataOS data products. Run npx dataproduct-builder-skills to scaffold .cursor/skills and docs into your project.",
   "bin": {
-    "builder-skills": "./bin/create.js"
+    "dataproduct-builder-skills": "./bin/create.js"
   },
   "files": [
     "bin/",
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akshaychame/builder-skills"
+    "url": "https://github.com/Akshayram11/builder-skills"
   }
 }

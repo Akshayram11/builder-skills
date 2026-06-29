@@ -7,7 +7,7 @@ Run a single command to scaffold two powerful Cursor skills and the full Vulcan 
 ## Usage
 
 ```bash
-npx builder-skills
+npx dataproduct-builder-skills
 ```
 
 That's it. The command creates the following structure in your current directory:
@@ -45,7 +45,7 @@ Turns the validated design spec into a working, deployed Vulcan data product —
 
 ## Re-running
 
-Running `npx builder-skills` again safely updates existing files with the latest skill content.
+Running `npx dataproduct-builder-skills` again safely updates existing files with the latest skill content.
 
 ## License
 
