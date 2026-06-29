@@ -1,6 +1,6 @@
 {
   "name": "dataproduct-builder-skills",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Cursor agent skills for designing and building Vulcan/DataOS data products. Run npx dataproduct-builder-skills to scaffold .cursor/skills and docs into your project.",
   "bin": {
     "dataproduct-builder-skills": "./bin/create.js"
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Akshayram11/builder-skills"
+    "url": "https://github.com/moderndatacompany/data-product-builder-skills"
   }
 }
